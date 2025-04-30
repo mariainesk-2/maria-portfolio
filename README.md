@@ -76,7 +76,7 @@ The build files will be in the `dist` directory.
 
 ## Live Demo
 
-View the live site at: https://same-gn9rup54vku-latest.netlify.app
+View the live site at: [https://same-gn9rup54vku-latest.netlify.app] (https://portfolio-mariaines.netlify.app/)
 
 ## License
 
